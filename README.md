@@ -39,6 +39,8 @@ Distribuição Geográfica: Faturamento detalhado por estado (destaque para SP e
 Visão geral dos principais indicadores de vendas.
 
 Exemplo de interatividade e comportamento dos dados sob filtros específicos.
+<img width="1955" height="1096" alt="image" src="https://github.com/user-attachments/assets/78f05a49-c7a5-4e7c-a79c-63fc045ae9cc" />
+
 
 📂 Estrutura do Repositório
 /img: Prints do dashboard.
