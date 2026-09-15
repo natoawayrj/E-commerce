@@ -4,6 +4,24 @@ Este projeto apresenta uma solução de ponta a ponta para análise de vendas, a
 🚀 Visão Geral do Projeto
 O objetivo foi transformar uma base de dados bruta de vendas em insights acionáveis. O projeto foca em KPIs críticos como Faturamento Total, Ticket Médio e performance regional.
 
+## Dados
+
+- **Fonte:** *a confirmar* — `data/dados_vendas_ecommerce.xlsx` foi herdado de um
+  miniprojeto de estudo e a origem não está registrada. A base tem cara de dados
+  fabricados para exercício (600 pedidos, 10 produtos, 4 categorias, 7 estados,
+  ticket médio de ~R$ 10,5 mil). Antes de citar este projeto em processo seletivo,
+  confirme e coloque a origem aqui.
+- **Período:** 01/01/2026 a 30/04/2026 (4 meses).
+- **Granularidade:** 1 linha = 1 item de pedido.
+- **Volume:** 600 linhas, 12 colunas, 50 clientes, 10 produtos, 7 estados.
+- **Limitações conhecidas:**
+  - Origem não documentada — nenhum número aqui é auditável por terceiros.
+  - "Eletrônicos é a categoria dominante" e "Laptop Gamer no topo" são propriedades
+    de uma base de 600 linhas com 10 produtos, não descobertas de mercado.
+  - 4 meses não permitem falar de sazonalidade, tendência ou efeito de campanha.
+  - Não há custo, margem, devolução, canal de aquisição nem cliente recorrente —
+    o projeto mede receita bruta e nada além disso.
+
 🛠️ Stack Tecnológica
 Python (Jupyter Notebook): Utilizado para o processo de ETL (Extração, Transformação e Carga).
 
