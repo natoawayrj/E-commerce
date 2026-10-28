@@ -79,3 +79,7 @@ Interatividade e comportamento dos dados sob filtros específicos:
 - LinkedIn: [renato-santos-dados](https://www.linkedin.com/in/renato-santos-dados/)
 - Portfólio: [natoawayrj.github.io](https://natoawayrj.github.io/)
 - E-mail: nato_rj@yahoo.com.br
+
+## Licença
+
+Distribuído sob a licença MIT. Veja [LICENSE](LICENSE).
